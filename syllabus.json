@@ -1,0 +1,12 @@
+{
+  "chapters": [
+    {
+      "title": "Integers",
+      "topics": ["Addition and Subtraction", "Multiplication and Division"]
+    },
+    {
+      "title": "Fractions and Decimals",
+      "topics": ["Representation", "Operations"]
+    }
+  ]
+}
